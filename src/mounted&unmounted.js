@@ -1,4 +1,4 @@
-import Content from './useEffect w avt'
+import Content from './useEffect1'
 import { useState } from 'react';
 
 

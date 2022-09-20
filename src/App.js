@@ -1,4 +1,4 @@
-import Content from './useEffect w avt'
+import Content from './useLayoutEffect'
 import { useState } from 'react';
 
 

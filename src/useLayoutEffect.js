@@ -1,4 +1,4 @@
-import {useLayoutEffect, useState, useEffect, useCallback} from 'react'
+import {useLayoutEffect, useState} from 'react'
 
 // so sánh useEffect và useLayoutEffect
 
